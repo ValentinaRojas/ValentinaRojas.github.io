@@ -1,0 +1,12 @@
+* {
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+.content{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.photo{
+    border-radius: 50%;
+}
